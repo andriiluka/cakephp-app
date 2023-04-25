@@ -4,8 +4,6 @@ Simple application with list of users and CRUD actions.
 
 ## Installation
 
-Copy `config/app_local.example.php` to `config/app_local.php`.
-
 Copy `config/.env.example` to `config/.env`.
 
 Create database and edit env variable `DATABASE_URL`.
